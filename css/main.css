@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   z-index: 2;
   font-size: 18px;
-  background-image: linear-gradient(260deg, #2A85BC 0%, #044059 100%);
+  background-image: linear-gradient(260deg, #42f4c8 0%, #044059 100%);
 }
 
 #main-nav {
@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*SECTION HEADERS*/
 #workHeader {
-  background-image: url("../img/code.jpg");
+  background-image: url("");
 }
 
 #contactHeader {
@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 50vh;
   width: 100%;
   height: 100vh;
-  background-image: url("../img/hero.jpg");
+  background-image: url("https://i.ytimg.com/vi/PaVojQPaV74/maxresdefault.jpg");
   background-size: cover;
 }
 
@@ -147,7 +147,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
   font-size: 2em;
   text-align: center;
-  background-color: grey;
+  background-color: rgba(100,100,100,0.7);
   color: white;
   padding: 0 2vw;
 }
